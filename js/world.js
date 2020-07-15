@@ -4,7 +4,7 @@
  * Holds world and chunk classes, does map generation (but gets height from map.js).
  * Also loading and saving from/to files or in browser.
  *
- * Author:  Karl Kangur <karl.kangur@gmail.com>
+ * Author:  Ravens0606
  * Licence: WTFPL 2.0 (http://en.wikipedia.org/wiki/WTFPL)
 */
 
